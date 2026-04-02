@@ -4,7 +4,7 @@ import "./style/gallerySection.css";
 export const GallerySection = () => {
   const [selectedImage, setSelectedImage] = useState(null);
 
-  const images = Array.from({ length: 1000 }, (_, index) =>
+  const images = Array.from({ length: 6000 }, (_, index) =>
     `https://picsum.photos/600/600?${index + 1}`
   );
 
