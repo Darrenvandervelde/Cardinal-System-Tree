@@ -1,5 +1,3 @@
-# Full MMORPG System Architecture Charts
-
 ## Core System Architecture
 
 ```mermaid
